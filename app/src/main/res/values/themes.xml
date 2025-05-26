@@ -4,6 +4,12 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
+    <!-- Historia de usuario 1.1  -->
+    <style name="Theme.DogApp.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#20242C</item>
+        <item name="colorPrimaryVariant">#20242C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
 
     <style name="Theme.AppDogMovil" parent="Base.Theme.AppDogMovil" />
 </resources>
